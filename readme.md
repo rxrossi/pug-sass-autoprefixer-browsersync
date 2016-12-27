@@ -3,9 +3,9 @@
 
 
 
-Don't forget to use sass/compass spriting for images (sprites)
+#Don't forget to use sass/compass spriting for images (sprites)
 
-Optimal folder structure would be
+#Optimal folder structure would be
 
 _sass/
 	_base.sass
